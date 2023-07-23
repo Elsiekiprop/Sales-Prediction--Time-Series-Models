@@ -1,5 +1,10 @@
 # Sales-Prediction--Time-Series-Models
 ## Business Understanding
+The goal here is to build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction.
+
+The goal of the project is to develop a time series model that accurately predicts unit sales at different locations for Favorita stores. This prediction will help them better understand the customers’ needs and avoid stocking items that would not be in demand by consumers.
+
 
 ## Data Understanding
 Data used in this project has been sourced from Kaggle; https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
