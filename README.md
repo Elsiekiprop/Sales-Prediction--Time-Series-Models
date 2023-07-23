@@ -2,6 +2,7 @@
 ## Business Understanding
 
 ## Data Understanding
+Data used in this project has been sourced from Kaggle; https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 Seven data sets will be used in this project. The data sets are as follows:
 
 **Train.csv**
